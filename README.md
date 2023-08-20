@@ -1,2 +1,2 @@
 # core-java-project
-Core java pracice code
+Core java practice code
